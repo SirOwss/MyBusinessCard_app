@@ -3,4 +3,4 @@
 *.html linguist-detectable=false
 *.swift linguist-detectable=false
 *.c linguist-detectable=false
-*.cMake linguist-detectable=false
+*.txt linguist-detectable=false
